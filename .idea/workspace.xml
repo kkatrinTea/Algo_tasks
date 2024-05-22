@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d592a8bb-afce-4ef6-ae84-3df107c59924" name="Changes" comment="change names">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d592a8bb-afce-4ef6-ae84-3df107c59924" name="Changes" comment="refactor readme first task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716371630134</updated>
       <workItem from="1716371631267" duration="908000" />
-      <workItem from="1716382032072" duration="1593000" />
+      <workItem from="1716382032072" duration="1891000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -93,7 +90,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716382889816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add readme first task">
+      <option name="closed" value="true" />
+      <created>1716383649725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716383649725</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor readme first task">
+      <option name="closed" value="true" />
+      <created>1716383882099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716383882099</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor readme first task">
+      <option name="closed" value="true" />
+      <created>1716383926558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716383926558</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +135,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add second task" />
     <MESSAGE value="change names" />
-    <option name="LAST_COMMIT_MESSAGE" value="change names" />
+    <MESSAGE value="add readme first task" />
+    <MESSAGE value="refactor readme first task" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor readme first task" />
   </component>
 </project>
