@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class A {
 
     public static int compareSegments(int x1, int y1, int x2, int y2) {
         if ((x2 >= y1 && x2 <= x1) || (y2 >= y1 && y2 <= x1) ||
